@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김유창
 개인 별 랭킹 - 김유창
 
 
-last updated: 3-6-2021
+last updated: 3-10-2021
 
 ### [개인전: 종합](../singles-full)
 

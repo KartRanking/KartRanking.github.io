@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김진석
 개인 별 랭킹 - 김진석
 
 
-last updated: 3-6-2021
+last updated: 3-10-2021
 
 ### [개인전: 종합](../singles-full)
 
